@@ -1,1 +1,3 @@
 sample content for tempTxt.txt on repo1
+
+added content to tempTxt.txt for repo2
